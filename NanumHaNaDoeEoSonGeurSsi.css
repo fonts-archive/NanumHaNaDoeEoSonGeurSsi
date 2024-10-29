@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumHaNaDoeEoSonGeurSsi';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHaNaDoeEoSonGeurSsi/NanumHaNaDoeEoSonGeurSsi.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHaNaDoeEoSonGeurSsi/NanumHaNaDoeEoSonGeurSsi.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHaNaDoeEoSonGeurSsi/NanumHaNaDoeEoSonGeurSsi.ttf') format('truetype');
+}
